@@ -1,0 +1,14 @@
+C:\Users\misarry\Desktop\kt4\KT4_Balance\bin\Debug\net10.0\KT4_Balance.exe
+C:\Users\misarry\Desktop\kt4\KT4_Balance\bin\Debug\net10.0\KT4_Balance.deps.json
+C:\Users\misarry\Desktop\kt4\KT4_Balance\bin\Debug\net10.0\KT4_Balance.runtimeconfig.json
+C:\Users\misarry\Desktop\kt4\KT4_Balance\bin\Debug\net10.0\KT4_Balance.dll
+C:\Users\misarry\Desktop\kt4\KT4_Balance\bin\Debug\net10.0\KT4_Balance.pdb
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.AssemblyInfo.cs
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.dll
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\refint\KT4_Balance.dll
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.pdb
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\KT4_Balance.genruntimeconfig.cache
+C:\Users\misarry\Desktop\kt4\KT4_Balance\obj\Debug\net10.0\ref\KT4_Balance.dll
